@@ -1,1 +1,1 @@
-web: gunicorn main:app
+reminder: python src/quickstart.py
